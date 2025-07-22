@@ -1,0 +1,101 @@
+cliente_id,nombre,edad,ingresos_mensuales,deuda_total,dias_mora,historial_moras,contactado,zona_riesgo,visitas_previas,clasificación
+1,Mtro. Renato Nájera,56,45774,1854,45,0,1,1,0,irrecuperable
+2,Gustavo Matos,69,7568,39623,5,0,1,1,1,confiable
+3,Helena Javier Contreras Ojeda,46,7027,8392,36,0,1,1,3,irrecuperable
+4,Adela Cristobal Almanza Briseño,32,7695,56680,23,2,1,2,2,recuperable
+5,Francisco Conchita Jaramillo Toro,60,10258,47717,45,0,1,2,2,irrecuperable
+6,Liliana de León Márquez,25,27002,51859,52,3,1,1,0,irrecuperable
+7,Esperanza Aldo Barrera Saavedra,38,44504,27309,59,1,1,2,3,irrecuperable
+8,Fernando Sanabria Anaya,56,38159,64734,62,0,0,2,4,irrecuperable
+9,Vicente Vaca,36,18986,53662,84,1,0,1,2,irrecuperable
+10,Reina Escobar,40,17666,13688,31,0,1,1,0,irrecuperable
+11,Esther Botello,28,43660,26342,86,0,1,2,4,irrecuperable
+12,Laura Negrete,28,8561,38157,32,0,1,3,3,irrecuperable
+13,Hugo Aurora Fajardo Sierra,41,31854,68863,66,2,1,2,2,irrecuperable
+14,Maximiliano Naranjo Ayala,53,43952,53083,17,0,1,2,4,recuperable
+15,Cynthia Lucero Gonzales,57,27662,66733,24,1,1,1,4,recuperable
+16,Emiliano Ballesteros Collazo,41,13392,35698,53,0,1,2,4,irrecuperable
+17,Leticia Alfonso Jaramillo,20,35535,23671,57,1,1,2,2,irrecuperable
+18,Ing. Yuridia Bermúdez,39,18067,26184,66,2,0,1,2,irrecuperable
+19,Araceli Helena Guzmán,19,28599,43107,45,1,1,1,1,irrecuperable
+20,Olivia Marisela Rico Reséndez,41,40222,52663,23,2,0,1,3,irrecuperable
+21,Esther Zepeda,61,16837,16708,31,0,1,1,0,irrecuperable
+22,Benito Robles Valladares,47,19039,50811,46,0,1,1,4,irrecuperable
+23,Arturo Helena Cedillo Rico,55,35818,3811,85,1,0,1,1,irrecuperable
+24,Eduardo Jacinto Aragón Galindo,19,24115,57250,22,2,1,1,0,recuperable
+25,Araceli Ceja,38,15965,35754,65,1,1,1,1,irrecuperable
+26,Isabela Castro Rodarte,50,29538,12411,26,1,1,3,2,recuperable
+27,Sr(a). Mayte Rodarte,29,47530,3911,1,1,0,2,4,irrecuperable
+28,Berta Moya,39,10056,68270,89,2,1,2,0,irrecuperable
+29,Citlali Marisol Cervantes Esquivel,61,37482,9680,16,0,1,2,0,recuperable
+30,Flavio Amelia Ayala Rosas,42,13110,12111,32,0,1,2,0,irrecuperable
+31,Bianca Esther Pineda,66,18773,38504,8,0,1,1,0,recuperable
+32,Rocío Arredondo Abreu,44,32266,2802,42,0,1,2,0,irrecuperable
+33,Concepción Alonso Laureano Villa,59,22412,9155,47,1,1,2,1,irrecuperable
+34,Sessa Inés Loya Cruz,45,38270,40384,38,0,1,2,4,irrecuperable
+35,Leticia Pineda Reséndez,33,11910,48254,41,1,1,2,2,irrecuperable
+36,María Elena Urías,32,30446,22918,25,1,1,1,2,recuperable
+37,Martha Ana Colón Prado,64,5206,61713,49,0,0,1,2,irrecuperable
+38,Conchita Portillo Rincón,68,26518,31306,24,3,0,1,2,irrecuperable
+39,Lic. Eric Saiz,61,27361,17646,23,1,1,2,1,recuperable
+40,Lucía Mascareñas Olivas,69,28419,47843,12,0,1,2,3,recuperable
+41,Guillermina Manuel Figueroa,20,46523,17371,59,3,1,1,4,irrecuperable
+42,Víctor Rocío Almonte,54,27403,3049,6,1,0,3,0,irrecuperable
+43,Mtro. Timoteo Cabrera,68,23141,32616,56,0,0,2,3,irrecuperable
+44,Violeta Campos Tamez,24,19820,21932,35,2,0,1,2,irrecuperable
+45,Abel Chapa Zarate,38,45342,30855,44,2,1,1,3,irrecuperable
+46,Barbara Lerma Matos,26,11374,62434,19,3,1,1,4,recuperable
+47,Pamela Benavides,56,6678,44016,64,1,1,1,0,irrecuperable
+48,Maximiliano Amador Armenta,35,38827,8400,7,0,1,1,0,recuperable
+49,Diego Casárez,21,21198,43642,15,1,1,1,4,recuperable
+50,Bianca Rascón,42,14914,16151,13,0,1,1,4,recuperable
+51,Juana Diego Ledesma,31,32890,52407,75,3,1,1,2,irrecuperable
+52,Leonor Lugo,67,27299,67690,86,1,1,3,0,irrecuperable
+53,Horacio Ivonne Elizondo,26,48585,5499,14,0,1,1,3,recuperable
+54,Dr. Luis Manuel Sauceda,43,48689,7295,65,3,1,2,1,irrecuperable
+55,Camila Elizondo Alejandro,19,47557,60040,31,0,1,2,1,irrecuperable
+56,Bianca José Eduardo Barraza,37,49020,13183,86,1,1,3,4,irrecuperable
+57,Natalia Berta Maldonado Perea,45,7693,30299,62,1,0,1,2,irrecuperable
+58,Gerardo Pérez Tejeda,64,34467,13874,85,1,1,1,1,irrecuperable
+59,Sr(a). Elvira Barrera,24,34723,33711,50,0,1,3,0,irrecuperable
+60,Bernardo Wendolin Terrazas Carrera,61,8627,6539,24,0,0,3,4,irrecuperable
+61,Rafaél Colón,25,30939,54351,57,2,1,3,3,irrecuperable
+62,Hugo Florencia Muro Armas,64,47941,62267,62,0,1,1,4,irrecuperable
+63,Felipe Marín,52,26834,49354,61,1,1,1,3,irrecuperable
+64,Lucas Cintrón,31,23047,3557,21,2,1,2,4,recuperable
+65,Mariano Coronado,34,31105,39360,57,0,1,3,4,irrecuperable
+66,Miguel Antonio Monroy Espino,53,15230,3200,57,2,0,2,4,irrecuperable
+67,Mtro. Abelardo Sandoval,67,20707,69497,85,4,0,2,3,irrecuperable
+68,Salma Israel Rico de la O,57,26976,47975,48,0,0,1,3,irrecuperable
+69,Ing. Juana Tamayo,21,49262,22357,51,2,0,2,4,irrecuperable
+70,Ing. Arcelia Alba,19,28776,3869,41,1,0,1,1,irrecuperable
+71,Evelio Jacinto Zaragoza Muñiz,23,35080,62135,69,1,0,1,2,irrecuperable
+72,Ing. Óliver Nava,59,6306,51108,14,1,1,2,2,recuperable
+73,Marisol Esparza,21,11776,39467,53,0,0,2,2,irrecuperable
+74,José María Isabel Cintrón Zapata,46,32251,24328,59,0,1,1,3,irrecuperable
+75,Pilar Irene Carrión,35,14474,4987,7,2,1,1,3,recuperable
+76,Camila Gamboa Raya,43,45294,59871,52,1,1,2,1,irrecuperable
+77,Lucía Isabela Espinosa,61,26959,23399,59,0,1,1,2,irrecuperable
+78,Sonia Aparicio Serrano,51,10530,47214,4,1,0,2,2,irrecuperable
+79,Rufino Pérez Sepúlveda,27,34320,45064,67,1,0,1,4,irrecuperable
+80,María Matías,53,8748,41818,5,1,0,2,3,irrecuperable
+81,Ing. Ana Luisa Sarabia,31,36968,46525,46,3,0,2,2,irrecuperable
+82,Liliana Vargas Meléndez,48,37562,20830,54,2,0,1,1,irrecuperable
+83,Sr(a). María del Carmen Fajardo,65,18545,18429,39,2,0,1,1,irrecuperable
+84,Micaela Santillán Suárez,32,5663,7893,51,1,0,1,2,irrecuperable
+85,Pedro Rosalia Colón Nájera,25,39766,48333,15,1,0,1,3,irrecuperable
+86,Elvira Pedraza Rico,31,12994,4436,12,0,1,3,1,recuperable
+87,Ariadna Márquez,40,33021,6895,29,3,0,1,4,irrecuperable
+88,Lic. Socorro Malave,57,35303,20738,18,0,1,3,1,recuperable
+89,Abril Silvia Salas Espinal,38,8304,31746,16,0,1,1,0,recuperable
+90,Julia Víctor Negrón Medina,33,44353,50377,62,1,1,2,0,irrecuperable
+91,Zeferino Sergio Montenegro Linares,62,22675,49404,18,1,0,2,3,irrecuperable
+92,Francisca Barbara Heredia,35,49417,55045,57,3,1,2,2,irrecuperable
+93,Zeferino Altamirano,64,28938,40790,54,0,1,2,3,irrecuperable
+94,Mtro. Salma Parra,41,28664,6600,89,2,0,2,3,irrecuperable
+95,Perla Porfirio Raya,43,6636,41764,89,4,1,1,3,irrecuperable
+96,Lilia Zayas Grijalva,42,25080,46714,61,2,1,3,3,irrecuperable
+97,Gabriela Valdez Polanco,62,32728,57835,22,0,0,3,4,irrecuperable
+98,Samuel Girón,58,31736,57491,8,0,0,3,4,irrecuperable
+99,Benito Colón,46,33673,19589,11,1,1,1,1,recuperable
+100,Aurora Vergara,32,42505,44484,0,1,1,2,0,recuperable
