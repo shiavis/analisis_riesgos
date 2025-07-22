@@ -1,7 +1,6 @@
 
 import streamlit as st
 import pandas as pd
-import joblib
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import LabelEncoder
 
@@ -48,3 +47,7 @@ if archivo is not None:
         st.error(f"Las columnas del archivo deben ser: {', '.join(columnas_esperadas)}")
 else:
     st.info("Por favor, sube un archivo CSV para comenzar.")
+
+
+remove unused joblib import
+
