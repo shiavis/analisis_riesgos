@@ -18,7 +18,7 @@ if uploaded_file:
             total_vencidos = df[df['estado'].str.strip() == 'Vencido'].shape[0]
             porcentaje_vencidos = (total_vencidos / total_clientes) * 100
 
-            monto_total_en_riesgo = df[df['estado'].str.strip() == 'Vencido']['pnto_credi'].sum()
+            monto_total_en_riesgo = df[df['estado'].str.strip() == 'Vencido']['pnto_cred'].sum()
             mora_promedio = df[df['estado'].str.strip() == 'Vencido']['dias_mora'].mean()
             mora_maxima = df[df['estado'].str.strip() == 'Vencido']['dias_mora'].max()
 
