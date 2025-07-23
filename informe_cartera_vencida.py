@@ -58,7 +58,7 @@ if archivo:
                 prompt = (
                     "Eres un analista de riesgos de Banco Tampico Madero. "
                     "Con base en los siguientes indicadores, redacta un informe ejecutivo en español formal de 2 a 3 párrafos "
-                    "con lenguaje claro y profesional. Finaliza con 2 recomendaciones concretas."
+                    "con lenguaje claro y profesional. Finaliza con 2 recomendaciones concretas.\n\n"
 
 "
                     f"Indicadores:
